@@ -1,0 +1,12 @@
+.env
+__pycache__
+.vscode
+
+cover_letter/
+resume/
+
+logs
+
+old
+
+secrets.py
